@@ -1,9 +1,9 @@
 # Fraude detection model trainig workflow
 
-# on:
-#  github:
-#    branches:
-#      only: main
+ on:
+  github:
+    branches:
+      only: main
 
 jobs:
 
